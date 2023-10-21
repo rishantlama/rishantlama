@@ -1,6 +1,4 @@
-### Hi there 👋, I'm Rishant
-🌱 I’m currently learning Full Stack web-development
-📫 How to reach me tamangrishant@gmail.com
+### Hi there 👋,
 <!--
 **rishantlama/rishantlama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
